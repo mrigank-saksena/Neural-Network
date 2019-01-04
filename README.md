@@ -1,3 +1,5 @@
+##### **_All data was taken from The UC Irvine Machine Learning Respository https://archive.ics.uci.edu/ml/_**
+
 ## **Background** 
 This is a neural network with one hidden layer that takes an initial neural network and trains it on certain data.
 The user can change the perceptrons in the hidden layer as well as the learning rate and epochs for optimality. 
@@ -16,5 +18,3 @@ The neural network was also used to analyze Parkinson's data to determine whethe
 biomedical voice measurements. The attributes measured included: Average maximum, and minumum vocal fundamental frequencies,
 several measures of variation in fundamental frequency, several measures of variation in amplitude, ratio of nose to tonal
 components, nonlinear dynamical complexity measures, and signal fractal scaling exponents.
-
-##### **_All data was taken from The UC Irvine Machine Learning Respository https://archive.ics.uci.edu/ml/_**

@@ -1,7 +1,7 @@
 ##### **_All raw data was taken from The UC Irvine Machine Learning Respository https://archive.ics.uci.edu/ml/_**
 
 ## **Background** 
-This is a neural network with one hidden layer that takes an initial neural network and trains it on normalized data.
+This is a simple neural network with one hidden layer that takes an initial neural network and trains it on normalized data.
 The user can change the perceptrons in the hidden layer as well as the learning rate and epochs for optimality. 
 Once the neural network is trained, it can be tested on new data.
 The results include accuracy, precision, F1, and recall.

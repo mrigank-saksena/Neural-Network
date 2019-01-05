@@ -1,4 +1,4 @@
-##### **_All raw data was taken from The UC Irvine Machine Learning Respository https://archive.ics.uci.edu/ml/_**
+#### **_All raw data was taken from The UC Irvine Machine Learning Respository https://archive.ics.uci.edu/ml/_**
 
 ## **Background** 
 This is a simple neural network with one hidden layer that takes an initial neural network and trains it on normalized data.

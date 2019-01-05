@@ -18,3 +18,11 @@ The neural network was also used to analyze Parkinson's data to determine whethe
 biomedical voice measurements. The attributes measured included: Average maximum, and minumum vocal fundamental frequencies,
 several measures of variation in fundamental frequency, several measures of variation in amplitude, ratio of nose to tonal
 components, nonlinear dynamical complexity measures, and signal fractal scaling exponents.
+
+## **How to run the program**
+Once the folder is open in terminal:
+```
+python3 main.py
+```
+
+The user will then be prompted to either train or test the neural network.

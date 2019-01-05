@@ -11,7 +11,7 @@ The results include accuracy, precision, F1, and recall.
 ### **Breast Cancer**
 The neural network was used to analyze breast cancer data to determine if a tumor is benign or malignant. 
 The attributes measured included the turmor's: radius, texture, perimeter, area, smoothness, compactness, concavity,
-symmetry, and fractal dimension.
+symmetry, and fractal dimension. Classified tumors with 96% accuracy.
 
 ### **Parkinson's Disease**
 The neural network was also used to analyze Parkinson's data to determine whether or not someone has Parkinson's by analyzing
